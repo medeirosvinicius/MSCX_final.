@@ -20,4 +20,6 @@ As pastas estão organizadas na ordem:
 9. Dados Geográficos da CET analisados  
 
 **Observação:** Nos scripts constam somente os resultados plotados em gráficos; outros dados ou fontes não serão possíveis de acessar via **Lei Geral de Proteção de Dados (LGPD)**.
+
+
 Para poder utilizar meus dados , meu minha informações e modelo, cite-me : MEDEIROS, Vinicius Bezerra. Avaliação do Impacto de Ciclovias em São Paulo: Uma abordagem de Microssimulação Computacional. 2025. 156 f.
